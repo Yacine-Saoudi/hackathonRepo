@@ -1,2 +1,4 @@
 # hackathonRepo
-Repo for the cuHacking Hackathon
+Hello, this is team “Vincent and the rest” and the program that we made today is a calorie tracker.
+
+It is a simple app that allows people to keep track of what they eat everyday. You simply just need to add what kinds of food that you’ve eaten during the day and it automatically updates the number of calories that you have for the day. It utilizes an online API database and takes accurate information about the foods from a reliable source. For example if you were to search for apple you would get a variety of quantities each with their own calorie count You can select any of these and it would add them to a list  Your data is kept in a list and is easily extractable, and you can keep track through exporting a .csv file . You can also import others’ daily diets if you want.  The calculation page simply allows the user to keep track of their goal calories and see how close they are to it, whether above or below This app will help people be mindful of what they eat, and help them to stay
